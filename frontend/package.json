@@ -1,0 +1,16 @@
+{
+  "name": "advanced-react",
+  "version": "1.0.0",
+  "description": "Store with react, nextjs, graphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "graphql",
+    "next"
+  ],
+  "author": "David Nascimento",
+  "license": "ISC"
+}
